@@ -41,6 +41,7 @@
                                     greenhouse conditions. Grow bags comes in various sizes. Coco slab usually contains 30% husk
                                     chips and 70% coir pith (coco). This ratio can be customized according to grower's requirements.
                                 </p>
+                                
                                 <p>
                                     They are suitable for a wide variety of crops such as:
                                 <ul class="list-group">
