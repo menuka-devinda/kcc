@@ -115,6 +115,8 @@
                            <!-- <span>Skype:</span> <a href="#" class="mail-1">@woohooo</a></div>-->
                             </address>
                             <br/><br/>
+                            <!--  -->
+                            
 					<?php
 					if($emailSent==1){
 					
